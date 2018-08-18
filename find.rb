@@ -28,8 +28,6 @@ local_page = "NJT Highland Avenue Departures.html"
       dir = "east"
     end
 
-    binding.pry
-
     message = "The next train arriving at #{sta[0]} #{sta[1]} is the #{tr[0]} heading #{dir} and arriving on track #{tr[2]}."
 
     if tr.length == 6
