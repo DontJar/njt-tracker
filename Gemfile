@@ -3,5 +3,5 @@ source :rubygems
 
 gem 'nokogiri'
 # gem 'open-uri'
-gem 'pry'
+# gem 'pry'
 gem 'rest-client'
