@@ -2,7 +2,7 @@
 require 'rubygems'
 require 'nokogiri'
 require 'open-uri'
-require 'pry'
+# require 'pry'
 require 'restclient'
 
 puts "Accessing NJT's server...this may take a moment...."
